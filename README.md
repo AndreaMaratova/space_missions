@@ -1,5 +1,3 @@
-Discord: ozzy1948 #3358
-
 This Power BI dashboard visualizes all space missions since the beginning of the Space Race in 1957 up to August 7, 2020.
 
 This dashboard ([.pbix](https://github.com/AndreaMaratova/space_missions/blob/main/space_missions.pbix), [.pdf](https://github.com/AndreaMaratova/space_missions/blob/main/space_missions.pdf)) is based on data from this [dataset](https://www.kaggle.com/datasets/agirlcoding/all-space-missions-from-1957). 🚀
